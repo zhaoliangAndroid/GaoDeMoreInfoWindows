@@ -50,6 +50,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     //implementation project(path: ':markerlibrary')
-    implementation 'com.github.jikun2008:YisingleMarkerView:v1.0.4'
+    implementation 'com.github.zhaoliangAndroid:GaoDeMoreInfoWindows:1.0.0'
 }
 

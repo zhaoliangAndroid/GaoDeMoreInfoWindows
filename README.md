@@ -21,7 +21,7 @@
 
 
 	dependencies {
-	        implementation 'com.github.jikun2008:YisingleMarkerView:v1.0.4'
+	        implementation 'com.github.zhaoliangAndroid:GaoDeMoreInfoWindows:1.0.0'
 	}
 	
 ```
