@@ -3,7 +3,7 @@
 这个框架可以在地图上的marker上显示多个infoWindow(高德默认只能同时显示一个infoWindow)
 
 效果图如下:
-![image](https://raw.githubusercontent.com/zhaoliangAndroid/Picture/master/gaodeinfowindows.jpeg)
+![image](https://github.com/zhaoliangAndroid/Picture/raw/master/gaodeinfowindows.jpeg)
 
 
 #### 使用
@@ -45,5 +45,5 @@ private LatLng startlatLng = new LatLng(30.65769, 104.062388);
         startPointMarkerView.showInfoWindow("开始");
 
 ```
-github:https://github.com/jikun2008/YisingleMarkerView
+github:https://github.com/zhaoliangAndroid/GaoDeMoreInfoWindows
 
