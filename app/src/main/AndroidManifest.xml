@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yisingle.map.marker">
+    package="com.infowindwos.map.marker">
 
 
     <!--地图包需要的基础权限-->

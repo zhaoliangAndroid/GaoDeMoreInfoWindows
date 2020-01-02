@@ -7,10 +7,10 @@ import com.amap.api.maps.CameraUpdateFactory;
 import com.amap.api.maps.model.BitmapDescriptorFactory;
 import com.amap.api.maps.model.LatLng;
 import com.amap.api.maps.model.LatLngBounds;
-import com.yisingle.map.marker.R;
-import com.yisingle.map.marker.library.marker.BaseMarkerView;
-import com.yisingle.map.marker.library.view.PointMarkerView;
-import com.yisingle.map.marker.library.viewholder.MapInfoWindowViewHolder;
+import com.infowindwos.map.marker.R;
+import com.infowindwos.map.marker.library.marker.BaseMarkerView;
+import com.infowindwos.map.marker.library.view.PointMarkerView;
+import com.infowindwos.map.marker.library.viewholder.MapInfoWindowViewHolder;
 
 /**
  * @author liang
